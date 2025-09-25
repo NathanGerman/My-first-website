@@ -1,0 +1,72 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background: #f9f9f9;
+  color: #333;
+}
+
+h1 {
+  color: #444;
+}
+
+nav {
+  background: #222;
+  padding: 10px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+nav a:hover {
+  color: #f39c12;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 8px;
+}
+
+img {
+  margin-top: 20px;
+  max-width: 100%;
+}
+
+/* Div styles */
+.info-box {
+  background: #eee;
+  padding: 10px;
+  border-left: 4px solid #ccc;
+  margin-top: 10px;
+}
+
+.highlight-box {
+  background: #ffe;
+  padding: 10px;
+  border-left: 4px solid gold;
+}
+
+.note-box {
+  background: #eef;
+  padding: 10px;
+  border-left: 4px solid blue;
+}
+
+/* Span styling */
+.emphasized {
+  color: red;
+  font-weight

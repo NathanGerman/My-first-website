@@ -1,1 +1,4 @@
+
+My name is Nathan and this is my very first html project ever.
+
 This is a simple website about Apple products with multiple pages: Home, iPhone, and MacBook. The Home page introduces Apple products, lists top picks, and shows a comparison table with prices and years. The iPhone and MacBook pages give details about each product, including images, features, and fun facts. The site uses a navigation bar to switch between pages, styled boxes for information, highlights, and notes, and some emphasis on important text. A separate CSS file controls the fonts, colors, layout, and styling of text, images, tables, and special boxes. The site also has small scripts for basic tracking in the console.
